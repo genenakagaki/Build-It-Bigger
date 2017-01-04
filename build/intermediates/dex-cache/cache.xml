@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.1_377da4c3c6e4537050a4f727fcb821752613bee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/google-http-client-1.20.0_e4ec7ac6d99265cc6f370a3a30bcca113a570288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_f3a8037c6c60510dadb9837243bf91a5ade52a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_156c88dd43f4077851ce91665518ada6e5c9e708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/javax.annotation-api-1.2_96c97489605e48fccfba06eb90118fbecb35beb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/javax.inject-1_5575b3068028706dbcd8251409a50b20fdadd425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_14acd684bc16d0b72f9eaa06adad6bd7dc5bcc5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.20.0_0d4a9a271cf0afc6a4a31ce84738664502c01ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.1_57f7934030a35f55bf1b9d6a91a3fceac8f9ae03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_18c04cffef8c2c388f56b6d166cc589b950ce31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.1_f260643f162a2a9db23f7373653b2c54e2bdf28d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_8a5805373ef1165873257b4a11d89e547c9daeda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/hamcrest-integration-1.3_664a4aad7f151ba57c627ec548b1b7a7e2ea3c06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_205c0b31147b59315f0ad7c4e68505adf62094d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support.test.espresso-espresso-core-2.2.2_6c32efcf806eb8e28a8a667b5da5d5c7e82a0446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/hamcrest-core-1.3_ad02dff3121fcc3c77c82382057f44fa40479ee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_598cd710a7fa5df1650bc2cca9d080f93ddcb7da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_7b4887f436439eb9632a96d84649747c29ffe23d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/google-api-client-1.20.0_fa0423e53021895580f4c94c189fc9a044f4abc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="36863542521346e83196ab6caf391b2dc31deca4">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/backend-android-endpoints_962e676fc2e73e63f5b982316e4520cb7d161897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_8cd24814691d320655b34ff50c7c53088bd16519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support.test-rules-0.5_1a669ad100c65070b54ffbfd497b490b670f182d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_f78e5d546e9ece267b4252aecffdcf292573f56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0_2e0074d634c71c23a48378f8b4217eae825ce586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_6e87467a7315cc8b15750a313f010ff443bf3420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_3253d4fa7cd58f59ab4e2bf0d1dcaa98082bf51b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0_e4b40a2639ed2213a44de58bd821fdf9e0251548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_b170c589691506737d960e21521a89c3a645bce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/junit-4.12_df2f6d50dcfcefaeeb853b3ed8b710938663ba73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/javawriter-2.1.1_94bac79b8b762021d5673b73e7a4e18f58bd2205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.20.0_7ecb61be58b29158d358d31d067a03020760851d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.1_69f17fdc06854b9998147bb78383a9b762a9e9f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_70e607ddb4439ba6101f17c35252972260886cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.20.0_e38ac3c351f4f21089fc67e2691dd8737c3f75a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/hamcrest-library-1.3_2cf6a1404aacebfc72074c0158b444b50dfbf412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_a5dc5d6c9573802fb695be753aef5535426f731b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support.test-runner-0.5_f3c791f3dd79cbca6268e4fb0eb8ec88b23f1866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_aa699a84897e0067a66479dbc6335d9fd7d90fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/gene/AndroidStudioProjects/BuildItBigger/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_e1e3a22e730ee61441b6581b43ea69a33026afe1.jar" />
+    </item>
+
+</items>
